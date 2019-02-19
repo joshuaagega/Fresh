@@ -9,3 +9,7 @@ color:#E70300;
 p:hover {
 text-decoration: underline;
 }
+
+.clickable:hover {
+      text-decoration: underline;
+    }
